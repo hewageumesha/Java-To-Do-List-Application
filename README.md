@@ -1,5 +1,4 @@
 
-```markdown
 # 📋 Task Manager Pro
 
 [![Java](https://img.shields.io/badge/Java-17%2B-blue)](https://www.oracle.com/java/)
@@ -23,7 +22,7 @@
 ---
 
 ## 🏗️ Architecture
-
+```
 src/
 ├── model/
 │   ├── Priority.java              # Enum for type-safe priorities
